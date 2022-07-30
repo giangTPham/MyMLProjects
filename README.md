@@ -3,6 +3,6 @@ This is the compilation all (or most) of the Machine Learning Projects I have do
 
 ## List of Projects
 
-| Project's name | Description |
+| Project's name | Link |
 |---|---|
 | Text Classification with 20NewsGroup | |
