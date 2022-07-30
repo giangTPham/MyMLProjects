@@ -12,6 +12,6 @@ Our approach makes use of a popular model for image segmentation called **Unet**
 
 | Name | Link |
 |---|---|
-| Code | [code](https://www.kaggle.com/code/banggiangle/multi-class-unet/notebook) |
+| Code | [code](./code/) |
 | Slide | [slide](https://docs.google.com/presentation/d/1VlcoHUWSod6vnhLBq03NJWYYayJp94XADDcw_Qy7CLI/edit#slide=id.ga74eebb0e2_0_188) |
 | Document | [docs](./documents/) |
